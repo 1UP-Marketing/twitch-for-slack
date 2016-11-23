@@ -1,0 +1,12 @@
+{
+  "name": "twitch-slack-alert",
+  "version": "0.69",
+  "description": "node script to alert in slack when streams are live",
+  "main": "app.js",
+  "author": "Rob",
+  "license": "GPLv2",
+  "dependencies": {
+    "request": "^2.69.0",
+    "slack-node": "^0.2.0"
+  }
+}
