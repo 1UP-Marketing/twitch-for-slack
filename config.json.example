@@ -1,7 +1,7 @@
 {
   "twitchAPILink": "https://api.twitch.tv/kraken/streams/",
   "clientToken": "token",
-  "chaineID": ["crazyonerob", "bacon_donut"],
+  "chaineID": ["crazyonezoe", "bacon_donut"],
   "slackHookUrl" : "https://hooks.slack.com/services/",
   "slackHookName" : "twitch-slack-alert"
 }
